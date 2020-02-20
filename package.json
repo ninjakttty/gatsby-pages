@@ -1,0 +1,23 @@
+{
+  "name": "gatsby-pages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninjakttty/gatsby-pages.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ninjakttty/gatsby-pages/issues"
+  },
+  "homepage": "https://github.com/ninjakttty/gatsby-pages#readme",
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
